@@ -1,0 +1,677 @@
+{
+ "phrases": [
+  {
+   "hashToText": {
+    "+Ca6RIbzC2GhlciO+luUNg==": "잘못된 이메일 형식입니다."
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 79,
+   "col_beg": 13,
+   "line_end": 79,
+   "col_end": 38,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "잘못된 이메일 형식입니다."
+  },
+  {
+   "hashToText": {
+    "+BQs6VczJsZCLpiNGPKSgQ==": "이메일 입력은 필수입니다."
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 80,
+   "col_beg": 16,
+   "line_end": 80,
+   "col_end": 41,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "7XbtvBfcp3NtH9cqd6mQjw==": "비밀번호 입력은 필수입니다."
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 81,
+   "col_beg": 36,
+   "line_end": 81,
+   "col_end": 62,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "A9EuMPTHWvS9cP0DVryBWQ==": "비밀번호가 틀렸습니다."
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 104,
+   "col_beg": 42,
+   "line_end": 104,
+   "col_end": 65,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호가 틀렸습니다."
+  },
+  {
+   "hashToText": {
+    "IKPCaBVvcaFtO9oYUgxxvg==": "존재하지 않는 이메일입니다."
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 110,
+   "col_beg": 39,
+   "line_end": 110,
+   "col_end": 65,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "존재하지 않는 이메일입니다."
+  },
+  {
+   "hashToText": {
+    "r5se4sFFJgnadhNAScNF7g==": "이메일"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 153,
+   "col_beg": 19,
+   "line_end": 153,
+   "col_end": 33,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일"
+  },
+  {
+   "hashToText": {
+    "yJJrb7+4z2dyOBZ3H5u5EQ==": "이메일 주소"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 158,
+   "col_beg": 17,
+   "line_end": 158,
+   "col_end": 34,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 주소"
+  },
+  {
+   "hashToText": {
+    "8PEQbvIqvKKSFRtlhq3M2w==": "기관"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 169,
+   "col_beg": 19,
+   "line_end": 169,
+   "col_end": 32,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "기관"
+  },
+  {
+   "hashToText": {
+    "GS7p2bPzM5yQJUTD8b0/Pg==": "기관명"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 174,
+   "col_beg": 17,
+   "line_end": 174,
+   "col_end": 31,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "기관명"
+  },
+  {
+   "hashToText": {
+    "zVBMfFajghIGxBb7VGDzhA==": "비밀번호"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 185,
+   "col_beg": 22,
+   "line_end": 185,
+   "col_end": 37,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호"
+  },
+  {
+   "hashToText": {
+    "zVBMfFajghIGxBb7VGDzhA==": "비밀번호"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 190,
+   "col_beg": 17,
+   "line_end": 190,
+   "col_end": 32,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호"
+  },
+  {
+   "hashToText": {
+    "WFE6MKS0xMEEmYWb36AnMg==": "비밀번호 확인"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 212,
+   "col_beg": 22,
+   "line_end": 212,
+   "col_end": 40,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호 확인"
+  },
+  {
+   "hashToText": {
+    "WFE6MKS0xMEEmYWb36AnMg==": "비밀번호 확인"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 217,
+   "col_beg": 17,
+   "line_end": 217,
+   "col_end": 35,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호 확인"
+  },
+  {
+   "hashToText": {
+    "brXNA7/3oa4qN1slMYxsAQ==": "이름"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 241,
+   "col_beg": 26,
+   "line_end": 241,
+   "col_end": 39,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이름"
+  },
+  {
+   "hashToText": {
+    "brXNA7/3oa4qN1slMYxsAQ==": "이름"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 245,
+   "col_beg": 21,
+   "line_end": 245,
+   "col_end": 34,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이름"
+  },
+  {
+   "hashToText": {
+    "9Tis2YoaMuvK6XQe/oF60g==": "핸드폰 번호"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 269,
+   "col_beg": 26,
+   "line_end": 269,
+   "col_end": 43,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "핸드폰 번호"
+  },
+  {
+   "hashToText": {
+    "9Tis2YoaMuvK6XQe/oF60g==": "핸드폰 번호"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 273,
+   "col_beg": 21,
+   "line_end": 273,
+   "col_end": 38,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "핸드폰 번호"
+  },
+  {
+   "hashToText": {
+    "QgTlV/TlfpRESwaXEIdR0g==": "가입"
+   },
+   "filepath": "src/components/authentication/join/JoinForm.tsx",
+   "line_beg": 312,
+   "col_beg": 11,
+   "line_end": 312,
+   "col_end": 24,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "가입"
+  },
+  {
+   "hashToText": {
+    "+Ca6RIbzC2GhlciO+luUNg==": "잘못된 이메일 형식입니다."
+   },
+   "filepath": "src/components/authentication/login/LoginForm.tsx",
+   "line_beg": 54,
+   "col_beg": 13,
+   "line_end": 54,
+   "col_end": 38,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "잘못된 이메일 형식입니다."
+  },
+  {
+   "hashToText": {
+    "+BQs6VczJsZCLpiNGPKSgQ==": "이메일 입력은 필수입니다."
+   },
+   "filepath": "src/components/authentication/login/LoginForm.tsx",
+   "line_beg": 55,
+   "col_beg": 16,
+   "line_end": 55,
+   "col_end": 41,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "7XbtvBfcp3NtH9cqd6mQjw==": "비밀번호 입력은 필수입니다."
+   },
+   "filepath": "src/components/authentication/login/LoginForm.tsx",
+   "line_beg": 56,
+   "col_beg": 36,
+   "line_end": 56,
+   "col_end": 62,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "A9EuMPTHWvS9cP0DVryBWQ==": "비밀번호가 틀렸습니다."
+   },
+   "filepath": "src/components/authentication/login/LoginForm.tsx",
+   "line_beg": 79,
+   "col_beg": 42,
+   "line_end": 79,
+   "col_end": 65,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "비밀번호가 틀렸습니다."
+  },
+  {
+   "hashToText": {
+    "IKPCaBVvcaFtO9oYUgxxvg==": "존재하지 않는 이메일입니다."
+   },
+   "filepath": "src/components/authentication/login/LoginForm.tsx",
+   "line_beg": 85,
+   "col_beg": 39,
+   "line_end": 85,
+   "col_end": 65,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "존재하지 않는 이메일입니다."
+  },
+  {
+   "hashToText": {
+    "jPBKlzQTIwL5bajhE+gM5Q==": "Home"
+   },
+   "filepath": "src/layouts/home/HomeNavbar.tsx",
+   "line_beg": 80,
+   "col_beg": 13,
+   "line_end": 80,
+   "col_end": 28,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Home"
+  },
+  {
+   "hashToText": {
+    "KTjH9+Vg7Zcvik9o6A/4NA==": "Dashboard"
+   },
+   "filepath": "src/layouts/home/HomeNavbar.tsx",
+   "line_beg": 81,
+   "col_beg": 13,
+   "line_end": 81,
+   "col_end": 33,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Dashboard"
+  },
+  {
+   "hashToText": {
+    "So9Ieagp9LbuDFNSWCsWFA==": "Purchase Now"
+   },
+   "filepath": "src/layouts/home/HomeNavbar.tsx",
+   "line_beg": 176,
+   "col_beg": 13,
+   "line_end": 176,
+   "col_end": 36,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Purchase Now"
+  },
+  {
+   "hashToText": {
+    "RmFTUGhvL4dYcXSH3y4Qqg==": "이름 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddAttendee.tsx",
+   "line_beg": 99,
+   "col_beg": 32,
+   "line_end": 99,
+   "col_end": 56,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이름 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "+BQs6VczJsZCLpiNGPKSgQ==": "이메일 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddAttendee.tsx",
+   "line_beg": 100,
+   "col_beg": 33,
+   "line_end": 100,
+   "col_end": 58,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "MF2mltaELdyNvwLS46pfWw==": "소속 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddAttendee.tsx",
+   "line_beg": 101,
+   "col_beg": 40,
+   "line_end": 101,
+   "col_end": 64,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "소속 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "kim5SCmY+k5GnaQuul3t/Q==": "직위 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddAttendee.tsx",
+   "line_beg": 102,
+   "col_beg": 36,
+   "line_end": 102,
+   "col_end": 60,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "직위 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "+ukInxnbY6AO8puK5gUpxg==": "전화 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddAttendee.tsx",
+   "line_beg": 103,
+   "col_beg": 33,
+   "line_end": 103,
+   "col_end": 57,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "전화 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "RmFTUGhvL4dYcXSH3y4Qqg==": "이름 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 107,
+   "col_beg": 32,
+   "line_end": 107,
+   "col_end": 56,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이름 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "+BQs6VczJsZCLpiNGPKSgQ==": "이메일 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 109,
+   "col_beg": 33,
+   "line_end": 109,
+   "col_end": 58,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "MF2mltaELdyNvwLS46pfWw==": "소속 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 110,
+   "col_beg": 40,
+   "line_end": 110,
+   "col_end": 64,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "소속 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "kim5SCmY+k5GnaQuul3t/Q==": "직위 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 111,
+   "col_beg": 36,
+   "line_end": 111,
+   "col_end": 60,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "직위 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "F80m7TBeXvoZtSO2kilA+g==": "역할 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 112,
+   "col_beg": 32,
+   "line_end": 112,
+   "col_end": 56,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "역할 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "+ukInxnbY6AO8puK5gUpxg==": "전화 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddCommittee.tsx",
+   "line_beg": 113,
+   "col_beg": 33,
+   "line_end": 113,
+   "col_end": 57,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "전화 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "+Ca6RIbzC2GhlciO+luUNg==": "잘못된 이메일 형식입니다."
+   },
+   "filepath": "src/views/AddConference.tsx",
+   "line_beg": 89,
+   "col_beg": 13,
+   "line_end": 89,
+   "col_end": 38,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "잘못된 이메일 형식입니다."
+  },
+  {
+   "hashToText": {
+    "+BQs6VczJsZCLpiNGPKSgQ==": "이메일 입력은 필수입니다."
+   },
+   "filepath": "src/views/AddConference.tsx",
+   "line_beg": 90,
+   "col_beg": 16,
+   "line_end": 90,
+   "col_end": 41,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "이메일 입력은 필수입니다."
+  },
+  {
+   "hashToText": {
+    "syjS5eNbngNj8opBjqQhqw==": "계정이 없습니까?"
+   },
+   "filepath": "src/views/authentication/Join.tsx",
+   "line_beg": 89,
+   "col_beg": 13,
+   "line_end": 89,
+   "col_end": 33,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "계정이 없습니까?"
+  },
+  {
+   "hashToText": {
+    "0xGIZarf3hjmloNA9D9XmA==": "시작하기"
+   },
+   "filepath": "src/views/authentication/Join.tsx",
+   "line_beg": 95,
+   "col_beg": 15,
+   "line_end": 95,
+   "col_end": 30,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "시작하기"
+  },
+  {
+   "hashToText": {
+    "syjS5eNbngNj8opBjqQhqw==": "계정이 없습니까?"
+   },
+   "filepath": "src/views/authentication/Login.tsx",
+   "line_beg": 81,
+   "col_beg": 13,
+   "line_end": 81,
+   "col_end": 33,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "계정이 없습니까?"
+  },
+  {
+   "hashToText": {
+    "0xGIZarf3hjmloNA9D9XmA==": "시작하기"
+   },
+   "filepath": "src/views/authentication/Login.tsx",
+   "line_beg": 87,
+   "col_beg": 15,
+   "line_end": 87,
+   "col_end": 30,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "시작하기"
+  },
+  {
+   "hashToText": {
+    "OOFUjYg4sc05usTWHblyCw==": "죄송합니다. 페이지가 존재하지 않습니다."
+   },
+   "filepath": "src/views/Page404.tsx",
+   "line_beg": 49,
+   "col_beg": 17,
+   "line_end": 49,
+   "col_end": 51,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "죄송합니다. 페이지가 존재하지 않습니다."
+  },
+  {
+   "hashToText": {
+    "y85LylohizvhVsak9zU2DQ==": "찾을 수 없는 페이지입니다."
+   },
+   "filepath": "src/views/Page404.tsx",
+   "line_beg": 54,
+   "col_beg": 15,
+   "line_end": 54,
+   "col_end": 41,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "찾을 수 없는 페이지입니다."
+  },
+  {
+   "hashToText": {
+    "hG2L1nrDnajwalq2KL58Dg==": "페이지 주소가 잘못 입력되었거나, 페이지의 주소가 변경 혹은 삭제되어 요청하신 페이지를 찾을 수 없습니다."
+   },
+   "filepath": "src/views/Page404.tsx",
+   "line_beg": 56,
+   "col_beg": 15,
+   "line_end": 59,
+   "col_end": 15,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "페이지 주소가 잘못 입력되었거나, 페이지의 주소가 변경 혹은 삭제되어 요청하신 페이지를 찾을 수 없습니다."
+  },
+  {
+   "hashToText": {
+    "JpFu7kInGgwEMge0/XMN+A==": "입력하신 주소가 정확한지 다시 한 번 확인하시고 다시 시도해주세요."
+   },
+   "filepath": "src/views/Page404.tsx",
+   "line_beg": 61,
+   "col_beg": 15,
+   "line_end": 64,
+   "col_end": 15,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "입력하신 주소가 정확한지 다시 한 번 확인하시고 다시 시도해주세요."
+  },
+  {
+   "hashToText": {
+    "e+5YmzOBwbw6ICN3eP2GUw==": "홈으로 가기"
+   },
+   "filepath": "src/views/Page404.tsx",
+   "line_beg": 82,
+   "col_beg": 15,
+   "line_end": 82,
+   "col_end": 32,
+   "desc": "",
+   "project": "",
+   "type": "text",
+   "jsfbt": "홈으로 가기"
+  }
+ ],
+ "childParentMappings": {}
+}

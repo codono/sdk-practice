@@ -27,7 +27,7 @@ yarn-error.log*
 /.eslintcache
 
 # fbt
-.enum_manifest.json
-.source_strings.json
-.test_source_strings.json
-.src_manifest.json
+# .enum_manifest.json
+# .source_strings.json
+# .test_source_strings.json
+# .src_manifest.json
