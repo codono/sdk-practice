@@ -10,7 +10,6 @@ import path from 'path';
 //import db from './utils/db.js';
 const db = require('./utils/db.js');
 
-import { authenticateJWT } from './apis/auth';
 import routes from './routes';
 
 const app = express();
@@ -38,7 +37,7 @@ const options = {
 require('dotenv').config({
   path: path.resolve(__dirname, '../' + envPath),
 });
-const port = 123123;
+const port = 13467;
 
 app.use(morgan('dev')); // Log every request to the console
 
@@ -61,7 +60,7 @@ app.use(
 //  set up the template engine
 app.use(express.static(path.join(__dirname, '../../react/build')));
 
-app.use(authenticateJWT); // Authenticate every request
+// app.use(authenticateJWT); // Authenticate every request
 app.use('/', routes);
 app.get('/*', function (req, res) {
   res.sendfile(path.join(__dirname, '../../react/build', 'index.html'));
@@ -83,7 +82,7 @@ db.init((err) => {
         res.end();
       })
       .listen(port);
-    https.createServer(options, app).listen(123123);
+    https.createServer(options, app).listen(12345);
   } else {
     app.listen(port);
   }
