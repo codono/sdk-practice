@@ -1,0 +1,15 @@
+@import './styles/color.css';
+
+.MuiTooltip-tooltip {
+  background-color: var(--White) !important;
+  color: var(--Black) !important;
+  font-size: 13px !important;
+  box-shadow: 0px 12px 24px 0px rgba(145, 158, 171, 0.24) !important;
+  filter: drop-shadow(0px 12px 24px rgba(145, 158, 171, 0.24)) !important;
+  padding: 10px 12px 12px 12px !important;
+}
+.MuiTooltip-arrow::before {
+  background-color: var(--White) !important;
+  box-shadow: 0px 0px 2px 0px rgba(145, 158, 171, 0.24) !important;
+  filter: drop-shadow(0px 12px 24px rgba(145, 158, 171, 0.24)) !important;
+}

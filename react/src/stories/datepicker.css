@@ -1,0 +1,5 @@
+@import './styles/color.css';
+
+.datepicker {
+  width: 142px;
+}

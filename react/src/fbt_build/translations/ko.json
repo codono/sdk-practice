@@ -1,0 +1,35 @@
+{
+  "fb-locale": "ko",
+  "translations": {
+    "jPBKlzQTIwL5bajhE+gM5Q==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "홈",
+          "variations": {}
+        }
+      ]
+    },
+    "KTjH9+Vg7Zcvik9o6A/4NA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "대시보드",
+          "variations": {}
+        }
+      ]
+    },
+    "So9Ieagp9LbuDFNSWCsWFA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "지금 구매하기",
+          "variations": {}
+        }
+      ]
+    }
+  }
+}

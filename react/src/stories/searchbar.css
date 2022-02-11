@@ -1,0 +1,41 @@
+@import './styles/color.css';
+
+.input-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 400px;
+  height: 14px;
+  background-color: #f7f8f9;
+  border-radius: 8px;
+  padding: 13px 16px;
+}
+
+.input-admin {
+  width: 320px;
+}
+.input-default {
+  border: none;
+  background: none;
+  font-size: 14px;
+  width: 90%;
+  outline: none;
+}
+.input-default:active {
+  border: none;
+}
+
+.input-admin-icon {
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+}
+.input-default-icon {
+  position: absolute;
+  right: 16px;
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+}

@@ -1,0 +1,58 @@
+:root {
+  /* aris color */
+  --Primary-aris-Lighter: #a8bbff;
+  --Primary-aris-Light: #6574ff;
+  --Primary-aris-Main: #4052ff;
+  --Primary-aris-Dark: #1f32c1;
+  --Primary-aris-Darker: #151385;
+
+  /* sendia color */
+  --Primary-sendia-Lighter: #ffb775;
+  --Primary-sendia-Light: #ff9431;
+  --Primary-sendia-Main: #ff8022;
+  --Primary-sendia-Dark: #e96a0d;
+  --Primary-sendia-Darker: #c95500;
+  --Primary-sendia-Gradiant: linear-gradient(270deg, #ff6f00 0%, #ff9431 100%);
+
+  /* gray scale */
+  --White: #ffffff;
+  --Gray10: #fbfbfb;
+  --Gray20: #ececec;
+  --Gray30: #dbdbdb;
+  --Gray40: #a7a7a7;
+  --Gray50: #7b7b7b;
+  --Gray60: #545454;
+  --Gray70: #3c3c3c;
+  --Gray80: #292929;
+  --Black: #111111;
+  --RealBlack: #000000;
+
+  /* blue gray scale */
+  --BlueGray05: #fdfeff;
+  --BlueGray10: #f4f8fb;
+  --BlueGray20: #e7edf2;
+  --BlueGray30: #c7d0d9;
+  --BlueGray40: #9dabb8;
+  --BlueGray50: #637381;
+  --BlueGray60: #505e6b;
+  --BlueGray70: #465058;
+  --BlueGray80: #282a2c;
+
+  /* etc */
+  --CardDivider: #f4f5f6;
+  --BookMarkYellow: #ffce1e;
+  --AlertRed: #ff624d;
+
+  /* tag color */
+  --TagRed: #ff7b7b;
+  --TagOrange: #ffb287;
+  --TagYellow: #ffd466;
+  --TagGreen: #a1d7a0;
+  --TagOceanblue: #7fd4ce;
+  --TagSkyblue: #7fb5d4;
+  --TagBlue: #7f88d4;
+  --TagPurple: #bca0d7;
+  --TagPink: #fea3b3;
+  --TagDarkRed: #d36565;
+  --TagDdayGreen: #19cf8e;
+}

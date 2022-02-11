@@ -1,0 +1,50 @@
+@import './styles/color.css';
+
+.dataTable-container {
+  width: 1080px;
+  padding: 8px;
+}
+
+.dataTable-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+.dataTable-title {
+  padding: 8px;
+  font-family: 'Spoqa Han Sans Neo';
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.dataTable-tableHead-tableRow {
+  background-color: var(--BlueGray10);
+}
+
+.dataTable-tableHead-tableCell:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.dataTable-tableHead-tableCell:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.dataTable-tableHead-tableCell {
+  border: none !important;
+  color: var(--BlueGray60) !important;
+  font-weight: 600 !important;
+}
+
+.dataTable-tableBody-tableCell {
+  border: none !important;
+  font-size: 14px !important;
+  height: 24px;
+}
+
+.dateTable-footer-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px;
+}

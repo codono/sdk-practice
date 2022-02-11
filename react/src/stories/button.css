@@ -1,0 +1,149 @@
+@import './styles/color.css';
+.button {
+  font-family: 'Noto Sans KR';
+  font-weight: 500;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-primary {
+  color: var(--White);
+  background-color: var(--Primary-sendia-Main);
+}
+.button-primary:hover {
+  background-color: var(--Primary-sendia-Dark);
+}
+.button-primary-disabled,
+.button-secondary-disabled {
+  color: var(--White);
+  background-color: var(--Gray30);
+}
+
+.button-secondary {
+  color: var(--White);
+  background-color: var(--Primary-sendia-Dark);
+}
+.button-secondary:hover {
+  background-color: var(--Primary-sendia-Darker);
+}
+
+.button-outline {
+  color: var(--Primary-sendia-Main);
+  background-color: var(--White);
+  border: 1px solid;
+}
+.button-outline:hover {
+  color: var(--White);
+  background-color: var(--Primary-sendia-Main);
+}
+.button-outline-disabled,
+.button-tertiary-disabled {
+  color: var(--Gray30);
+  background-color: var(--White);
+  border: 1px solid;
+}
+
+.button-text {
+  color: var(--Black);
+  background-color: var(--White);
+}
+.button-text:hover {
+  color: var(--Primary-sendia-Main);
+}
+.button-text-disabled,
+.button-ghost-disabled {
+  color: var(--Gray30);
+  background-color: var(--White);
+}
+
+.button-tertiary {
+  color: var(--Gray60);
+  background-color: var(--White);
+  border: 1px solid var(--Gray30);
+}
+.button-tertiary:hover {
+  color: var(--Black);
+  border-color: var(--Primary-sendia-Main);
+}
+
+.button-danger {
+  color: var(--White);
+  background-color: var(--AlertRed);
+}
+.button-danger:hover {
+  background-color: #e24a35;
+}
+
+.button-dash {
+  color: var(--Gray80);
+  background-color: var(--White);
+  border: 1px dashed var(--Gray50);
+}
+.button-dash:hover {
+  color: var(--Primary-sendia-Main);
+  border-color: var(--Primary-sendia-Main);
+}
+.button-dash-disabled {
+  color: var(--Gray30);
+  background-color: var(--White);
+  border: 1px dashed var(--Gray30);
+}
+
+.button-ghost {
+  color: var(--BlueGray70);
+  background-color: var(--White);
+}
+.button-ghost:hover {
+  background-color: var(--BlueGray10);
+}
+
+.leftIcon-sm {
+  height: 100%;
+  margin-right: 9.33px;
+}
+.leftIcon-md {
+  height: 100%;
+  margin-right: 9.67px;
+}
+.leftIcon-lg {
+  height: 100%;
+  margin-right: 10px;
+}
+
+.rightIcon-sm {
+  height: 100%;
+  margin-left: 9.33px;
+}
+.rightIcon-md {
+  height: 100%;
+  margin-left: 9.67px;
+}
+.rightIcon-lg {
+  height: 100%;
+  margin-left: 10px;
+}
+
+.button-sm {
+  height: 36px;
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.button-md {
+  height: 48px;
+  font-size: 16px;
+  padding: 16px 20px;
+}
+.button-lg {
+  height: 56px;
+  font-size: 17px;
+  padding: 19px 20px 20px;
+}
+
+.button-round {
+  border-radius: 100px;
+}

@@ -1,0 +1,11 @@
+@import './styles/color.css';
+
+.accordion-title {
+  font-size: 15px;
+  font-weight: 500;
+}
+.accordion-subtitle {
+  margin-top: 12px;
+  font-size: 13px;
+  color: var(--Gray40);
+}

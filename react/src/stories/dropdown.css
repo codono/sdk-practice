@@ -1,0 +1,38 @@
+@import './styles/color.css';
+
+.MuiSelect-iconOpen {
+  transform: rotate(180deg);
+  /* right: 0 !important; */
+}
+.select fieldset {
+  border: 1px solid var(--Gray30) !important;
+}
+
+.select-select {
+  width: 169px;
+}
+.select-filter {
+  background-color: var(--Gray20);
+  width: fit-content;
+  border: none;
+}
+.select-filter fieldset,
+.select-text fieldset {
+  border: none !important;
+}
+.select-text {
+  background-color: var(--White);
+  width: fit-content;
+}
+
+.select-select-placeholder {
+  color: var(--Gray40);
+}
+
+.select-filter-placeholder {
+  color: var(--Gray60);
+}
+
+.select-text-placeholder {
+  color: var(--Black);
+}
