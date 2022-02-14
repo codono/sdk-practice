@@ -36,7 +36,8 @@ style.append(
         position:absolute; 
         bottom:20px; 
         right:20px; 
-        box-shadow: 0px 2px 12px 0px #23243F1F; 
+        box-shadow: 0px 4px 16px 0px #23243F1F;
+        border-radius:16px;
       }
       .sendiaBtnFrame { 
           width: 48px; 
@@ -47,6 +48,9 @@ style.append(
           border-radius: 16px;
           box-shadow: 0px 2px 12px 0px #23243F1F; 
       }
+      .sendiaBtnFrame:hover { 
+        cursor: pointer;
+    }
     `
 );
 document.body.append(style);
